@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm xinghenLuyus 👋</h1>
 
-<!--
-**xinghenLuyus/xinghenLuyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=xinghenLuyus&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+## 🧠 GitHub 使用语言统计
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=xinghenLuyus&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinghenLuyus&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🐍 贪吃蛇贡献图
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/xinghenLuyus/xinghenLuyus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+## 📝 博客文章同步
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">自动化能力：语言统计 / 贡献贪吃蛇 / 博客文章同步</p>
