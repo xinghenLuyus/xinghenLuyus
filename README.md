@@ -4,10 +4,8 @@
 	<img src="https://komarev.com/ghpvc/?username=xinghenLuyus&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xinghenLuyus&show_icons=true" alt="xinghenLuyus's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinghenLuyus&layout=compact" alt="xinghenLuyus's Top Languages" />
-</p>
+[![xinghenLuyus's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinghenLuyus&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinghenLuyus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/xinghenLuyus/xinghenLuyus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
