@@ -19,6 +19,9 @@ jobs:
           filename: github-metrics/languages.indepth.svg
           # 注意：默认 Token 只能读取受限数据。要统计你账号下所有仓库，必须配置 METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
+          user: xinghenLuyus
+          # 配置你的 Git 提交名称和邮箱，否则统计不到你的代码
+          commits_authoring: xinghenLuyus, Luyus, 2593026969@qq.com
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
@@ -35,6 +38,7 @@ jobs:
         with:
           filename: github-metrics/followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: xinghenLuyus
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
