@@ -5,8 +5,12 @@
 </p>
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xinghenLuyus&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinghenLuyus&hide_title=true&hide_border=true&layout=compact&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <table>
+    <tr>
+      <td><img src="github-metrics/languages.indepth.svg" alt="仓库语言" /></td>
+      <td><img src="github-metrics/followup.indepth.svg" alt="issue/pr统计" /></td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
