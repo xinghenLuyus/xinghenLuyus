@@ -20,11 +20,11 @@
 ## 📝 我的最新博客
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux最快部署clash代理](https://blog.xinghenluyus.cn/2026/04/29/2026-4-29/)
+- [OpenClaw 部署：从 Docker 安装到优雅定制环境](https://blog.xinghenluyus.cn/2026/04/29/2026-4-29-2/)
 - [Wireguard 在 Windows 中的亿点点细节](https://blog.xinghenluyus.cn/2025/12/15/2025-12-15/)
 - [在腾讯轻量应用服务器部署gitea和runner](https://blog.xinghenluyus.cn/2025/10/15/2025-10-15/)
 - [Kubernetes 多节点快速部署](https://blog.xinghenluyus.cn/2025/09/15/2025-9-15/)
-- [如何本地服务化部署PaddleOCR](https://blog.xinghenluyus.cn/2025/08/20/2025-8-20/)
-- [如何在Volantis-5主题上使用artalk评论系统&lpar;同本站&rpar;](https://blog.xinghenluyus.cn/2025/08/18/2025-8-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
