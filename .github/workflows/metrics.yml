@@ -30,7 +30,8 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 2
 
       # 🎟️ Follow-up of issues and pull requests (Issue/PR统计)
       - name: Indepth analysis (Follow-up)
