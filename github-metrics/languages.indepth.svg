@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.65112047481114" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.65112047481114" y="0" width="14.276257488936073" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.92737796374723" y="0" width="7.589648923346423" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="453.5170268870936" y="0" width="6.48297311290638" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.546199563726" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.546199563726" y="0" width="14.272787376450376" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.8189869401764" y="0" width="7.699615755280252" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="453.51860269545665" y="0" width="6.48139730454337" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,7 +47,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>538 kB</div>
+                                <div>546 kB</div>
                             </small>
                         </div>
                     </section>
